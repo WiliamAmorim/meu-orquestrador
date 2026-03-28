@@ -1,0 +1,6 @@
+[
+  { "name": "Bot Financeiro", "status": "Online", "running": true },
+  { "name": "Bot Notas", "status": "Offline", "running": false },
+  { "name": "Bot Relatórios", "status": "Online", "running": false },
+  { "name": "Bot Notícias", "status": "Online", "running": true }
+]

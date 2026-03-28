@@ -1,0 +1,17 @@
+[
+  {
+    "name": "PC-Wiliam",
+    "status": "Online",
+    "lastSeen": "agora"
+  },
+  {
+    "name": "Servidor AWS",
+    "status": "Offline",
+    "lastSeen": "há 5 min"
+  },
+  {
+    "name": "Notebook Casa",
+    "status": "Online",
+    "lastSeen": "agora"
+  }
+]
